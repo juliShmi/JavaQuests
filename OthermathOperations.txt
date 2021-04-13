@@ -1,0 +1,8 @@
+class OtherMathOperations {
+static int square (int x){
+  return x * x;
+}
+static int cube (int x) {
+  return x*x*x;
+}
+}
